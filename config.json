@@ -1,0 +1,8 @@
+{
+	"adapters":[
+		{"name":"each1Minute",
+		 "delay":60},
+		{"name":"each1Hour",
+		"delay":3600}
+	]
+}
